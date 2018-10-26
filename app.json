@@ -2,14 +2,15 @@
   "expo": {
    "name": "stockNap",
    "icon": "./0.png",
-   "version": "1.0.0",
+   "version": "2.1.0",
    "slug": "nap",
    "sdkVersion": "27.0.0",
    "ios": {
      "bundleIdentifier": "com.atp.stocknap"
    },
    "android": {
-     "package": "com.atp.stocknap"
+     "package": "com.atp.stocknap",
+     "versionCode": 2 
    }
   }
 }

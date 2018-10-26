@@ -320,6 +320,12 @@ bundle: Writing bundle output to: android/app/src/main/assets/index.android.bund
 
 ENOENT: no such file or directory, open 'android/app/src/main/assets/index.android.bundle'
 
+
+increment version code from previous version code in app.json under android 
+
+delete previous bundle and run below commands
+
+
 ashutosh@atp:~/Development/AwesomeProject$ 
 ashutosh@atp:~/Development/AwesomeProject$ 
 ashutosh@atp:~/Development/AwesomeProject$ 
@@ -343,6 +349,7 @@ Scanning folders for symlinks in /home/ashutosh/Development/AwesomeProject/node_
 Loading dependency graph, done.
 bundle: Writing bundle output to: android/index.android.bundle
 bundle: Done writing bundle output
+
 
 
 shutosh@atp:~/Development/AwesomeProject$ sudo exp build:android
