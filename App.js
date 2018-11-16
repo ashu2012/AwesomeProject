@@ -5,8 +5,8 @@ export default class App extends React.Component {
   render() {
     return (
       <WebView
-        source={{uri: 'https://ashu2012.github.io/'}}
-        style={{marginTop: 20}}
+        source={{uri: 'http://35.200.217.150/'}}
+        style={{marginTop: 20 , marginRight: 10}}
       />
     );
   }
